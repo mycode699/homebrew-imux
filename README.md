@@ -15,7 +15,9 @@ It can also be published as a standalone GitHub repo named **`homebrew-imux`**.
 
 ## Install
 
-### From a published tap (recommended after the remote exists)
+### From the published tap (recommended)
+
+Remote: <https://github.com/mycode699/homebrew-imux>
 
 ```bash
 brew tap mycode699/imux
