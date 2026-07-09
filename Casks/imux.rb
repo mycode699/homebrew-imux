@@ -1,6 +1,6 @@
 cask "imux" do
-  version "4.0.0"
-  sha256 "ff2199f0ffcae9bbfb0973ab5cac16068a343d21db60130cf9de25638c937b69"
+  version "4.0.1"
+  sha256 "7a502b70902aedb68f4e970fe5937c05bad1d4df2fd7a99288899a325d08ea92"
 
   # Versioned artifact from the official download surface (matches latest.json archiveUrl).
   url "https://www.iccjk.com/downloads/imux-v#{version}-macos.dmg"
